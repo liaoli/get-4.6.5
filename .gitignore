@@ -1,0 +1,7 @@
+# Project exclude paths
+/.dart_tool/
+/build/
+/example/.dart_tool/
+/example/build/
+/example_nav2/.dart_tool/
+/example_nav2/build/
